@@ -19,7 +19,7 @@ e-commerce order dataset using Microsoft Excel.
 
 ## Analysis Results
 
-![Descriptive Statistics](Descriptive Statistics.png)
+![Descriptive Statistics](Descriptive_Statistics.png)
 > Count, Mean and Median calculated for key columns.
 
 
@@ -32,7 +32,7 @@ e-commerce order dataset using Microsoft Excel.
 ![Monthly Revenue](Monthly_Revenue.png)
 > June is the strongest month. September is the weakest.
 
-![Payment Method](Payment Method.png)
+![Payment Method](Payment_Method.png)
 > Online payment is the most used method with 258 orders.
 
 ![Referral Source](Referral_Source.png)
